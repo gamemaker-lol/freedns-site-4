@@ -138,29 +138,6 @@ footer{
   color: #1E93FF;
   font-weight: 400;
 }
-.nav{
-    flex-shrink: 0;
-    width: 355px;
-    height: 60px;
-    border-radius: 15px;
-    background-color: #3D4E68;
-    opacity: 0.6;
-    margin: 10px;
-    display: block;
-    text-align: center;
-    position:fixed;
-    bottom:5px;
-}
-
-.nav a{
-    width:40%;
-    display:inline-block
-  
-}
-
-.nav img{
-    width:50px;
-}
 
 .spacer{
      margin:80px;
